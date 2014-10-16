@@ -2,3 +2,5 @@ SYS team list:
 A.Micheal Feng
 B.Gavin Gou
 C.Duncan Qin
+D.Jerry Zhang
+
