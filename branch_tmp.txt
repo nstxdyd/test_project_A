@@ -2,3 +2,4 @@ DBA Team member:
 A.Apaul Pang
 B.Ora Liu
 C.Michael Feng
+D.Jerry Zhang
